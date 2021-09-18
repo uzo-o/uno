@@ -1,4 +1,4 @@
-# uno
+# Uno
 a 4-player text iteration of the card game Uno
 
 ## Description
