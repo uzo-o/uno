@@ -28,7 +28,7 @@ player1_name = ""
 player2_name = ""
 player3_name = ""
 player4_name = ""
-i = 0  # FIXME
+i = 0
 
 all_player_cards = []
 player1_cards = []
